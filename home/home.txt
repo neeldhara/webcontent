@@ -1,1 +1,9 @@
 Title: Home
+
+----
+
+text: 
+
+Welcome to my slice of virtual estate — I'm an Assistant Professor at the [Indian Institute of Technology, Gandhinagar](http://www.iitgn.ac.in). Here, I'm associated with the discipline of [Computer Science and Engineering](http://cs.iitgn.ac.in/), jointly with the discipline of [Mathematics](http://www.iitgn.ac.in/faculty.htm#math). My primary research interest involves the design and analysis of efficient algorithms for "hard" problems in general, and parameterized algorithms in particular. The problems considered are typically concerned with combinatorial optimization, frequently in the context of graph theory or constraint satisfaction.
+
+If you enjoy reading content online, I would strongly recommend subscribing to the [TCS blog aggregator](http://feedworld.net/toc/) (you would need a feed reader, usually your browser, or operating system, or gmail account would have one), maintained by [Arvind Narayanan](http://www.cs.utexas.edu/~arvindn/). Also, a nice hangout for those with a passing or serious interest in theoretical computer science is the [CSTheory Stack Exchange website](http://cstheory.stackexchange.com/), _a la_ Stack Overflow and Math Overflow.
