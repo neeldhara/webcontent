@@ -2,6 +2,10 @@ Title: ~
 
 ----
 
+color: purple
+
+----
+
 text: 
 
 Welcome to my slice of virtual estate — I'm an Assistant Professor at the [Indian Institute of Technology, Gandhinagar](http://www.iitgn.ac.in). Here, I'm associated with the discipline of [Computer Science and Engineering](http://cs.iitgn.ac.in/). My primary research interest involves the design and analysis of efficient algorithms for "hard" problems in general, and parameterized algorithms in particular. The problems considered are typically concerned with combinatorial optimization, frequently in the context of graph theory, social choice, games, geometry, and constraint satisfaction.
