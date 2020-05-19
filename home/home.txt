@@ -11,3 +11,37 @@ text:
 Welcome to my slice of virtual estate — I'm an Assistant Professor at the [Indian Institute of Technology, Gandhinagar](http://www.iitgn.ac.in). Here, I'm associated with the discipline of [Computer Science and Engineering](http://cs.iitgn.ac.in/). My primary research interest involves the design and analysis of efficient algorithms for "hard" problems in general, and parameterized algorithms in particular. The problems considered are typically concerned with combinatorial optimization, frequently in the context of graph theory, social choice, games, geometry, and constraint satisfaction.
 
 If you enjoy reading content online, and are broadly interested in theoretical computer science, I would strongly recommend subscribing to the [TCS blog aggregator](http://cstheory-feed.org) or simply following [cstheory on Twitter](https://twitter.com/cstheory). Also check out [CSTheory Stack Exchange](http://cstheory.stackexchange.com/), which is to theoretical computer scientists what Stack Overflow and Math Overflow are to programmers and mathematicians, respectively. 
+
+
+----
+
+news:
+-
+ item: "New preprint on ArXiV:<br> _Red-Blue Point Separation for Points on a Circle_ <br> (coauthored with Harshil Mittal and Aditi Sethia)"
+ itemtype: paper
+ url: "http://arxiv.org/"
+-
+ item: "New preprint on ArXiV:<br> _Imbalance Parameterized by Twin Cover Revisited_ <br> (coauthored with Harshil Mittal)"
+ itemtype: paper
+ url: "http://arxiv.org/"
+-
+ item: "New preprint on ArXiV:<br> _On Envy-Free Allocations for Amicable Agents_ <br> (coauthored with Aditi Sethia)"
+ itemtype: paper
+ url: "http://arxiv.org/"
+-
+ item: "Old wine in a new bottle -- this website just got a bit of a refresh."
+ itemtype: special
+ url: ""
+-
+ item: "Currently Teaching: ES214, Discrete Mathematics"
+ itemtype: general
+ url: "" 
+-
+ item: "Accepted at IJCAI 2020:<br> _On the hardness of Multiwinner Voting Rules_ <br> (coauthored with Chinmay Sonar and Palash Dey)"
+ itemtype: paper
+ url: ""
+-
+ item: "Accepted at IWOCA 2020:<br> _A Parameterized Perspective on Attacking and Defending Elections_ <br> (coauthored with Kishen Gowda and Vraj Patel)"
+ itemtype: paper
+ url: ""
+----
