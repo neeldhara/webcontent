@@ -19,11 +19,11 @@ news:
 -
  item: "New preprint on ArXiV:<br> _Red-Blue Point Separation for Points on a Circle_ <br> (coauthored with Harshil Mittal and Aditi Sethia)"
  itemtype: paper
- url: "http://arxiv.org/"
+ url: "https://arxiv.org/abs/2005.06046"
 -
  item: "New preprint on ArXiV:<br> _Imbalance Parameterized by Twin Cover Revisited_ <br> (coauthored with Harshil Mittal)"
  itemtype: paper
- url: "http://arxiv.org/"
+ url: "https://arxiv.org/abs/2005.03800"
 -
  item: "New preprint on ArXiV:<br> _On Envy-Free Allocations for Amicable Agents_ <br> (coauthored with Aditi Sethia)"
  itemtype: paper
@@ -35,13 +35,13 @@ news:
 -
  item: "Currently Teaching: ES214, Discrete Mathematics"
  itemtype: general
- url: "" 
+ url: "https://www.notion.so/ES214-Discrete-Mathematics-b3f8c917930b472c8eda7f5b8b9df2a9" 
 -
- item: "Accepted at IJCAI 2020:<br> _On the hardness of Multiwinner Voting Rules_ <br> (coauthored with Chinmay Sonar and Palash Dey)"
+ item: "Accepted at [IJCAI 2020](https://ijcai20.org/):<br> _On the hardness of Multiwinner Voting Rules_ <br> (coauthored with Chinmay Sonar and Palash Dey)"
  itemtype: paper
- url: ""
+ url: "https://arxiv.org/abs/2005.03176"
 -
- item: "Accepted at IWOCA 2020:<br> _A Parameterized Perspective on Attacking and Defending Elections_ <br> (coauthored with Kishen Gowda and Vraj Patel)"
+ item: "Accepted at [IWOCA 2020](https://iwoca2020.labri.fr/):<br> _A Parameterized Perspective on Attacking and Defending Elections_ <br> (coauthored with Kishen Gowda and Vraj Patel)"
  itemtype: paper
- url: ""
+ url: "https://arxiv.org/abs/2004.13933"
 ----
