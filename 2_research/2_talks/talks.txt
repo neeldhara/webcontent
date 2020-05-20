@@ -1,8 +1,8 @@
-title: Talks
+Title: Talks
 ----
 fulltitle: Talks
 ----
-color: green
+color: 
 ----
 intro: This page is best viewed on a desktop device and the slides in fullscreen.
 ----
