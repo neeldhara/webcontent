@@ -1,6 +1,0 @@
-Title: About
-----
-fulltitle: My Shady Past
-----
-color: orange
-----
