@@ -17,6 +17,10 @@ If you enjoy reading content online, and are broadly interested in theoretical c
 
 news:
 -
+ item: "Old wine in a new bottle -- this website just got a bit of a refresh."
+ itemtype: special
+ url: ""
+-
  item: "New preprint on ArXiV:<br> _Red-Blue Point Separation for Points on a Circle_ <br> (coauthored with Harshil Mittal and Aditi Sethia)"
  itemtype: paper
  url: "https://arxiv.org/abs/2005.06046"
@@ -24,14 +28,6 @@ news:
  item: "New preprint on ArXiV:<br> _Imbalance Parameterized by Twin Cover Revisited_ <br> (coauthored with Harshil Mittal)"
  itemtype: paper
  url: "https://arxiv.org/abs/2005.03800"
--
- item: "New preprint on ArXiV:<br> _On Envy-Free Allocations for Amicable Agents_ <br> (coauthored with Aditi Sethia)"
- itemtype: paper
- url: "http://arxiv.org/"
--
- item: "Old wine in a new bottle -- this website just got a bit of a refresh."
- itemtype: special
- url: ""
 -
  item: "Currently Teaching: ES214, Discrete Mathematics"
  itemtype: general
@@ -45,3 +41,9 @@ news:
  itemtype: paper
  url: "https://arxiv.org/abs/2004.13933"
 ----
+Add this soon:
+
+-
+ item: "New preprint on ArXiV:<br> _On Envy-Free Allocations for Amicable Agents_ <br> (coauthored with Aditi Sethia)"
+ itemtype: paper
+ url: "http://arxiv.org/"
