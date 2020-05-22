@@ -1,0 +1,111 @@
+Title: Outreach
+----
+
+fulltitle: Outreach
+
+----
+
+Intro: Featured Courses
+
+----
+
+Color: green
+
+----
+
+Courses:
+-
+  title: Pattern Matching Algorithms
+  url: "http://events.iitgn.ac.in/2017/patternmatching/instructor"
+  bottomtext1: 4th December 2017 to 8th December 2017
+  keytexttop: Amihood Amir
+  bottomtext2: IITGN
+  image: pm.jpg
+  badgetext: GIAN Course
+  description: "This course was a modern introduction to the field of pattern matching algorithms. These problems are among the oldest in computer science. For example, Celera Genomics used shotgun sequencing to complete the first sequenced genome. Every text editor uses the Boyer-Moore algorithm. The area remains a fertile ground for very active current research."
+-
+  title: Computational Social Choice
+  url: "http://events.iitgn.ac.in/2017/comsoc/"
+  bottomtext1: 28th August 2017 to 07 September 2017
+  keytexttop: Edith Elkind
+  bottomtext2: IITGN
+  image: comsoc.jpg
+  badgetext: GIAN Course
+  description: "This course was an introduction to the rapidly growing field of computational social choice, which -- at the intersection of computer science and economics -- deals with the algorithmic and complexity-theoretic aspects of collective decision making. This course addresses several algorithmic and complexity-theoretic themes in computational social choice."
+----
+
+Archives: 
+
+-
+  title: Workshop on Parameterized Complexity 201 (IISER Pune)
+  audience-icon: workshop
+  audience: Workshop 
+  duration: Mar 2020
+  role: Scientific Co-cordinator
+  year: 2020
+  url: https://sites.google.com/students.iiserpune.ac.in/iiserpc201/home
+-
+  title: ACM-W Summer School on Algorithmic Game Theory
+  audience-icon: school
+  audience: School
+  duration: Jul 2019
+  year: 2019
+  role: Coordinator
+  url: http://events.iitgn.ac.in/2019/ACMSummerSchool/
+-
+  title: ACM-India Inter-Research Institute Student Seminar in CS
+  audience-icon: event
+  audience: Event 
+  duration: Feb 2020
+  role: Chair, Organizing and Program Committees
+  year: 2020
+  url: http://events.iitgn.ac.in/2020/IRISS/
+-
+  title: ACM-India Annual Event
+  audience-icon: event
+  audience: Event 
+  duration: Feb 2020
+  role: Co-Organizer
+  year: 2020
+  url: http://events.iitgn.ac.in/2020/ACMAnnualEvent/
+-
+  title: ACM-W India Workshop for Women in CS Research
+  audience-icon: event
+  audience: Event 
+  duration: Feb 2020
+  role: Co-Organizer
+  year: 2020
+  url: http://events.iitgn.ac.in/2020/ACMW
+-
+  title: ACM Summer School on Graph Theory and Graph Algorithms
+  audience-icon: school
+  audience: School
+  duration: Jun 2017
+  year: 2017
+  role: Co-Coordinator
+  url: http://events.iitgn.ac.in/2017/ACMSummerSchool/
+-
+  title: NMI Workshop on Complexity Theory
+  audience-icon: workshop
+  audience: Workshop
+  duration: Nov 2016
+  year: 2016
+  role: Co-Organizer
+  url: http://sites.iitgn.ac.in/events/2016/nmi/
+-
+  title: TEQIP Summer School on Design and Analysis of Algorithms
+  audience-icon: school
+  audience: School 
+  duration: May 2016
+  year: 2016
+  role: Co-Organizer
+----
+
+-
+  title:   Discrete Mathematics
+  url: http://www.google.com
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Spring 2020
+  year: 2020
+  code: ES214

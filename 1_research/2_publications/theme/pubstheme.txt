@@ -1,0 +1,624 @@
+title: Publications
+
+----
+
+Intro: This page lists articles from an RSS feed.
+
+----
+publications:
+-
+  authors: Kishen N. Gowda, Neeldhara Misra, Vraj Patel
+  pubtitle: A Parameterized Perspective on Attacking and Defending Elections. 
+  type: arxiv, recent
+  theme: comsoc
+  details: CoRR abs/2005.03176 (2020)
+  year: 2020
+  doi: "http://www.arxiv.org/abs/2005.03176"
+-
+  authors: Neeldhara Misra, Harshil Mittal
+  pubtitle: Imbalance Parameterized by Twin Cover Revisited. 
+  type: arxiv, recent, workinprogress
+  theme: graphs
+  details: CoRR abs/2005.03800 (2020)
+  year: 2020
+  doi: "http://www.arxiv.org/abs/2005.03800"
+-
+  authors: Chinmay Sonar, Palash Dey, Neeldhara Misra
+  pubtitle: On the complexity of Winner Verification and Candidate Winner for Multiwinner Voting Rules. 
+  type: arxiv, recent
+  theme: comsoc
+  details: CoRR abs/2004.13933 (2020) 
+  year: 2020
+  doi: "http://www.arxiv.org/abs/2004.13933"
+-
+  authors: Chamanvir Kaur, Neeldhara Misra
+  pubtitle: On the Parameterized Complexity of Spanning Trees with Small Vertex Covers. 
+  type: conference, recent
+  theme: graphs
+  details: CALDAM 2020, 427-438
+  year: 2020
+  doi: "https://doi.org/10.1007/978-3-030-39219-2\_34"
+-
+  authors: Neeldhara Misra, Harshil Mittal, Aditi Sethia
+  pubtitle: Red-Blue Point Separation for Points on a Circle. 
+  type: arxiv, recent, workinprogress
+  theme: geometry
+  details: CoRR abs/2005.06046 (2020)
+  year: 2020
+  doi: "http://www.arxiv.org/abs/2005.06046"
+-
+  authors: Palash Dey, Neeldhara Misra, Swaprava Nath, Garima Shakya
+  pubtitle: A Parameterized Perspective on Protecting Elections. 
+  type: arxiv, recent
+  theme: comsoc
+  details: CoRR abs/1905.11838 (2019)
+  year: 2019
+  doi: "http://www.arxiv.org/abs/1905.11838"
+-
+  authors: Pratyush Dayal, Neeldhara Misra
+  pubtitle: Deleting to Structured Trees. 
+  type: arxiv, recent
+  theme: graphs
+  details: CoRR abs/1912.12765 (2019)
+  year: 2019
+  doi: "http://www.arxiv.org/abs/1912.12765"
+-
+  authors: Manoj Gupta, Hitesh Kumar, Neeldhara Misra
+  pubtitle: On the Complexity of Optimal Matching Reconfiguration. 
+  type: conference, recent
+  theme: graphs
+  details: SOFSEM 2019, 221-233
+  year: 2019
+  doi: "https://doi.org/10.1007/978-3-030-10801-4\_18"
+-
+  authors: Neeldhara Misra, Fahad Panolan, Saket Saurabh
+  pubtitle: On the Parameterized Complexity of Edge-Linked Paths. 
+  type: conference, recent
+  theme: graphs
+  details: CSR 2019, 286-298
+  year: 2019
+  doi: "https://doi.org/10.1007/978-3-030-19955-5\_25"
+-
+  authors: Neeldhara Misra
+  pubtitle: On the Parameterized Complexity of Party Nominations. 
+  type: conference, recent
+  theme: comsoc
+  details: ADT 2019, 112-125
+  year: 2019
+  doi: "https://dblp.org/rec/conf/aldt/Misra19.bib"
+-
+  authors: Neeldhara Misra, Chinmay Sonar
+  pubtitle: Robustness Radius for Chamberlin-Courant on Restricted Domains. 
+  type: conference, recent
+  theme: comsoc
+  details: SOFSEM 2019, 341-353
+  year: 2019
+  doi: "https://doi.org/10.1007/978-3-030-10801-4\_27"
+-
+  authors: Neeldhara Misra, Piyush Rathi
+  pubtitle: The Parameterized Complexity of Dominating Set and Friends Revisited for Structured Graphs. 
+  type: conference, recent
+  theme: graphs
+  details: CSR 2019, 299-310
+  year: 2019
+  doi: "https://doi.org/10.1007/978-3-030-19955-5\_26"
+-
+  authors: Davide Bilò, Luciano Gualà, Stefano Leucci, Neeldhara Misra
+  pubtitle: On the Complexity of Two Dots for Narrow Boards and Few Colors. 
+  type: conference
+  theme: games
+  details: FUN 2018, 7:1-7:15
+  year: 2018
+  doi: "https://doi.org/10.4230/LIPIcs.FUN.2018.7"
+-
+  authors: Neeldhara Misra
+  pubtitle: On the Parameterized Complexity of Colorful Components and Related Problems. 
+  type: conference
+  theme: graphs
+  details: IWOCA 2018, 237-249
+  year: 2018
+  doi: "https://doi.org/10.1007/978-3-319-94667-2\_20"
+-
+  authors: Bireswar Das, Murali Krishna Enduri, Neeldhara Misra, I. Vinod Reddy
+  pubtitle: On Structural Parameterizations of Firefighting. 
+  type: arxiv
+  theme: graphs
+  details: CoRR abs/1711.10227 (2017)
+  year: 2017
+  doi: "http://www.arxiv.org/abs/1711.10227"
+-
+  authors: Bireswar Das, Murali Krishna Enduri, Neeldhara Misra, I. Vinod Reddy
+  pubtitle: On Structural Parameterizations of Graph Motif and Chromatic Number. 
+  type: conference
+  theme: graphs
+  details: CALDAM 2017, 118-129
+  year: 2017
+  doi: "https://doi.org/10.1007/978-3-319-53007-9\_11"
+-
+  authors: Neeldhara Misra, Chinmay Sonar, P. R. Vaidyanathan
+  pubtitle: On the Complexity of Chamberlin-Courant on Almost Structured Profiles. 
+  type: conference
+  theme: comsoc
+  details: ADT 2017, 124-138
+  year: 2017
+  doi: "https://doi.org/10.1007/978-3-319-67504-6\_9"
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Parameterized Dichotomy of Choosing Committees Based on Approval Votes in the Presence of Outliers. 
+  type: conference
+  theme: comsoc
+  details: AAMAS 2017, 42-50
+  year: 2017
+  doi: "http://dl.acm.org/citation.cfm?id=3091137"
+-
+  authors: Jayesh Choudhari, Anirban Dasgupta, Neeldhara Misra, M. S. Ramanujan
+  pubtitle: Saving Critical Nodes with Firefighters is FPT. 
+  type: arxiv
+  theme: graphs
+  details: CoRR abs/1705.10923 (2017)
+  year: 2017
+  doi: "http://www.arxiv.org/abs/1705.10923"
+-
+  authors: Neeldhara Misra, I. Vinod Reddy
+  pubtitle: The Parameterized Complexity of Happy Colorings. 
+  type: arxiv
+  theme: graphs
+  details: CoRR abs/1708.03853 (2017)
+  year: 2017
+  doi: "http://www.arxiv.org/abs/1708.03853"
+-
+  authors: Neeldhara Misra
+  pubtitle: Alternate Parameterizations. 
+  type: survey
+  theme: fpt
+  details: Encyclopedia of Algorithms 2016, 64-67
+  year: 2016
+  doi: ""
+-
+  authors: Sandip Banerjee, Neeldhara Misra, Subhas C. Nandy
+  pubtitle: Color Spanning Objects - Algorithms and Hardness Results. 
+  type: conference
+  theme: graphs
+  details: CALDAM 2016, 37-48
+  year: 2016
+  doi: "https://doi.org/10.1007/978-3-319-29221-2\_4"
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Complexity of Manipulation with Partial Information in Voting. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1604.04359 (2016)
+  year: 2016
+  doi: "http://www.arxiv.org/abs/1604.04359"
+-
+  authors: Palash Dey, Neeldhara Misra
+  pubtitle: Elicitation for Preferences Single Peaked on Trees. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1604.04403 (2016)
+  year: 2016
+  doi: "http://www.arxiv.org/abs/1604.04403"
+-
+  authors: Neeldhara Misra
+  pubtitle: Kernelization, Planar F-Deletion. 
+  type: survey
+  theme: graphs
+  details: Encyclopedia of Algorithms 2016, 1033-1036
+  year: 2016
+  doi: "https://doi.org/10.1007/978-1-4939-2864-4\_527"
+-
+  authors: Rohit Vaish, Neeldhara Misra, Shivani Agarwal, Avrim Blum
+  pubtitle: On the Computational Hardness of Manipulating Pairwise Voting Rules. 
+  type: conference
+  theme: comsoc
+  details: AAMAS 2016, 358-367
+  year: 2016
+  doi: ""
+-
+  authors: Palash Dey, Neeldhara Misra
+  pubtitle: On the Exact Amount of Missing Information that makes Finding Possible Winners Hard. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1610.08407 (2016)
+  year: 2016
+  doi: "http://www.arxiv.org/abs/1610.08407"
+-
+  authors: Palash Dey, Neeldhara Misra
+  pubtitle: Preference Elicitation For Single Crossing Domain. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1604.05194 (2016)
+  year: 2016
+  doi: "http://www.arxiv.org/abs/1604.05194"
+-
+  authors: Shivaram Kalyanakrishnan, Neeldhara Misra, Aditya Gopalan
+  pubtitle: Randomised Procedures for Initialising and Switching Actions in Policy Iteration. 
+  type: conference
+  theme: planning
+  details: AAAI 2016, 3145-3151
+  year: 2016
+  doi: ""
+-
+  authors: Aniket Basu Roy, Anil Maheshwari, Sathish Govindarajan, Neeldhara Misra, Subhas C. Nandy, Shreyas Shetty
+  pubtitle: The Runaway Rectangle Escape Problem. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1603.04210 (2016)
+  year: 2016
+  doi: "http://www.arxiv.org/abs/1603.04210"
+-
+  authors: Neeldhara Misra
+  pubtitle: Two Dots is NP-complete. 
+  type: conference
+  theme: comsoc
+  details: FUN 2016, 24:1-24:12
+  year: 2016
+  doi: ""
+-
+  authors: Prachi Goyal, Neeldhara Misra, Fahad Panolan, Meirav Zehavi
+  pubtitle: Deterministic Algorithms for Matching and Packing Problems Based on Representative Sets. 
+  type: conference
+  theme: comsoc
+  details: SIAM J. Discret. Math. 29(4), 1815-1836 (2015)
+  year: 2015
+  doi: ""
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Frugal Bribery in Voting. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1504.08248 (2015)
+  year: 2015
+  doi: "http://www.arxiv.org/abs/1504.08248"
+-
+  authors: Fedor V. Fomin, Saket Saurabh, Neeldhara Misra
+  pubtitle: Graph Modification Problems - A Modern Perspective. 
+  type: conference
+  theme: comsoc
+  details: FAW 2015, 3-6
+  year: 2015
+  doi: ""
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Kernelization Complexity of Possible Winner and Coalitional Manipulation Problems in Voting. 
+  type: conference
+  theme: comsoc
+  details: AAMAS 2015, 87-96
+  year: 2015
+  doi: ""
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Manipulation is Harder with Incomplete Votes. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1504.08256 (2015)
+  year: 2015
+  doi: "http://www.arxiv.org/abs/1504.08256"
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: On Choosing Committees Based on Approval Votes in the Presence of Outliers. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1511.04190 (2015)
+  year: 2015
+  doi: "http://www.arxiv.org/abs/1511.04190"
+-
+  authors: Neeldhara Misra, Arshed Nabeel, Harman Singh
+  pubtitle: On the Parameterized Complexity of Minimax Approval Voting. 
+  type: conference
+  theme: comsoc
+  details: AAMAS 2015, 97-105
+  year: 2015
+  doi: ""
+-
+  authors: Vikram Kamat, Neeldhara Misra
+  pubtitle: Parameterized Algorithms and Kernels for 3-Hitting Set with Parity Constraints. 
+  type: conference
+  theme: comsoc
+  details: CIAC 2015, 249-260
+  year: 2015
+  doi: ""
+-
+  authors: Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, M. S. Ramanujan, Saket Saurabh
+  pubtitle: Solving d-SAT via Backdoors to Small Treewidth. 
+  type: conference
+  theme: comsoc
+  details: SODA 2015, 630-641
+  year: 2015
+  doi: ""
+-
+  authors: Pradeesha Ashok, Sudeshna Kolay, Neeldhara Misra, Saket Saurabh
+  pubtitle: Unique Covering Problems with Geometric Sets. 
+  type: conference
+  theme: comsoc
+  details: COCOON 2015, 548-558
+  year: 2015
+  doi: ""
+-
+  authors: Serge Gaspers, Neeldhara Misra, Sebastian Ordyniak, Stefan Szeider, Stanislav Zivny
+  pubtitle: Backdoors into Heterogeneous Classes of SAT and CSP. 
+  type: conference
+  theme: comsoc
+  details: AAAI 2014, 2652-2658
+  year: 2014
+  doi: ""
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Complexity of Kernelization in the Possible Winner Problem. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1405.3865 (2014)
+  year: 2014
+  doi: "http://www.arxiv.org/abs/1405.3865"
+-
+  authors: Palash Dey, Neeldhara Misra, Y. Narahari
+  pubtitle: Detecting Possible Manipulators in Elections. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1404.2367 (2014)
+  year: 2014
+  doi: "http://www.arxiv.org/abs/1404.2367"
+-
+  authors: Aniket Basu Roy, Sathish Govindarajan, Neeldhara Misra, Shreyas Shetty
+  pubtitle: On the d-Runaway Rectangle Escape Problem. 
+  type: conference
+  theme: comsoc
+  details: CCCG 2014
+  year: 2014
+  doi: ""
+-
+  authors: Neeldhara Misra, Geevarghese Philip, Venkatesh Raman, Saket Saurabh
+  pubtitle: The Kernelization Complexity of Connected Domination in Graphs with (no) Small Cycles. 
+  type: conference
+  theme: comsoc
+  details: Algorithmica 68(2), 504-530 (2014)
+  year: 2014
+  doi: ""
+-
+  authors: Palash Dey, Prachi Goyal, Neeldhara Misra
+  pubtitle: UNO Gets Easier for a Single Player. 
+  type: conference
+  theme: comsoc
+  details: FUN 2014, 147-157
+  year: 2014
+  doi: ""
+-
+  authors: Akanksha Agrawal, Sathish Govindarajan, Neeldhara Misra
+  pubtitle: Vertex Cover Gets Faster and Harder on Low Degree Graphs. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1404.5566 (2014)
+  year: 2014
+  doi: "http://www.arxiv.org/abs/1404.5566"
+-
+  authors: Vikram Kamat, Neeldhara Misra
+  pubtitle: An Erdős--Ko--Rado theorem for matchings in the complete graph. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1303.4061 (2013)
+  year: 2013
+  doi: "http://www.arxiv.org/abs/1303.4061"
+-
+  authors: Prachi Goyal, Neeldhara Misra, Fahad Panolan
+  pubtitle: Faster Deterministic Algorithms for r-Dimensional Matching Using Representative Sets. 
+  type: conference
+  theme: comsoc
+  details: FSTTCS 2013, 237-248
+  year: 2013
+  doi: ""
+-
+  authors: Daniel Lokshtanov, Neeldhara Misra, Geevarghese Philip, M. S. Ramanujan, Saket Saurabh
+  pubtitle: Hardness of r-dominating set on Graphs of Diameter (r + 1). 
+  type: conference
+  theme: comsoc
+  details: IPEC 2013, 255-267
+  year: 2013
+  doi: ""
+-
+  authors: Ninad Rajgopal, Pradeesha Ashok, Sathish Govindarajan, Abhijit Khopkar, Neeldhara Misra
+  pubtitle: Hitting and Piercing Rectangles Induced by a Point Set. 
+  type: conference
+  theme: comsoc
+  details: COCOON 2013, 221-232
+  year: 2013
+  doi: ""
+-
+  authors: Daniel Lokshtanov, Neeldhara Misra, Saket Saurabh
+  pubtitle: On the Hardness of Eliminating Small Induced Subgraphs by Contracting Edges. 
+  type: conference
+  theme: comsoc
+  details: IPEC 2013, 243-254
+  year: 2013
+  doi: ""
+-
+  authors: Prachi Goyal, Vikram Kamat, Neeldhara Misra
+  pubtitle: On the Parameterized Complexity of the Maximum Edge 2-Coloring Problem. 
+  type: conference
+  theme: comsoc
+  details: MFCS 2013, 492-503
+  year: 2013
+  doi: ""
+-
+  authors: Prachi Goyal, Vikram Kamat, Neeldhara Misra
+  pubtitle: On the Parameterized Complexity of the Maximum Edge Coloring Problem. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1306.2931 (2013)
+  year: 2013
+  doi: "http://www.arxiv.org/abs/1306.2931"
+-
+  authors: Neeldhara Misra, Fahad Panolan, Ashutosh Rai, Venkatesh Raman, Saket Saurabh
+  pubtitle: Parameterized Algorithms for Max Colorable Induced Subgraph Problem on Perfect Graphs. 
+  type: conference
+  theme: comsoc
+  details: WG 2013, 370-381
+  year: 2013
+  doi: ""
+-
+  authors: Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, Geevarghese Philip, Saket Saurabh
+  pubtitle: Quadratic Upper Bounds on the Erdős-Pósa Property for a Generalization of Packing and Covering Cycles. 
+  type: conference
+  theme: comsoc
+  details: Journal of Graph Theory 74(4), 417-424 (2013)
+  year: 2013
+  doi: ""
+-
+  authors: Neeldhara Misra, N. S. Narayanaswamy, Venkatesh Raman, Bal Sri Shankar
+  pubtitle: Solving min ones 2-sat as fast as vertex cover. 
+  type: conference
+  theme: comsoc
+  details: Theor. Comput. Sci. 506, 115-121 (2013)
+  year: 2013
+  doi: ""
+-
+  authors: Neeldhara Misra, Fahad Panolan, Saket Saurabh
+  pubtitle: Subexponential Algorithm for d-Cluster Edge Deletion - Exception or Rule? 
+  type: conference
+  theme: comsoc
+  details: MFCS 2013, 679-690
+  year: 2013
+  doi: ""
+-
+  authors: Neeldhara Misra, Hannes Moser, Venkatesh Raman, Saket Saurabh, Somnath Sikdar
+  pubtitle: The Parameterized Complexity of Unique Coverage and Its Variants. 
+  type: conference
+  theme: comsoc
+  details: Algorithmica 65(3), 517-544 (2013)
+  year: 2013
+  doi: ""
+-
+  authors: Neeldhara Misra, Sebastian Ordyniak, Venkatesh Raman, Stefan Szeider
+  pubtitle: Upper and Lower Bounds for Weak Backdoor Set Detection. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1304.5518 (2013)
+  year: 2013
+  doi: "http://www.arxiv.org/abs/1304.5518"
+-
+  authors: Daniel Lokshtanov, Neeldhara Misra, Saket Saurabh
+  pubtitle: Kernelization - Preprocessing with a Guarantee. 
+  type: conference
+  theme: comsoc
+  details: The Multivariate Algorithmic Revolution and Beyond 2012, 129-161
+  year: 2012
+  doi: ""
+-
+  authors: Pinar Heggernes, Pim van 't Hof, Dániel Marx, Neeldhara Misra, Yngve Villanger
+  pubtitle: On the Parameterized Complexity of Finding Separators with Non-Hereditary Properties. 
+  type: conference
+  theme: comsoc
+  details: WG 2012, 332-343
+  year: 2012
+  doi: ""
+-
+  authors: Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, Saket Saurabh
+  pubtitle: Planar F-Deletion - Approximation and Optimal FPT Algorithms. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1204.4230 (2012)
+  year: 2012
+  doi: "http://www.arxiv.org/abs/1204.4230"
+-
+  authors: Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, Saket Saurabh
+  pubtitle: Planar F-Deletion - Approximation, Kernelization and Optimal FPT Algorithms. 
+  type: conference
+  theme: comsoc
+  details: FOCS 2012, 470-479
+  year: 2012
+  doi: ""
+-
+  authors: S. Arumugam, K. Raja Chandrasekar, Neeldhara Misra, Geevarghese Philip, Saket Saurabh
+  pubtitle: Algorithmic Aspects of Dominator Colorings in Graphs. 
+  type: conference
+  theme: comsoc
+  details: IWOCA 2011, 19-30
+  year: 2011
+  doi: ""
+-
+  authors: Neeldhara Misra, Venkatesh Raman, Saket Saurabh
+  pubtitle: Lower bounds on kernelization. 
+  type: survey
+  theme: comsoc
+  details: Discret. Optim. 8(1), 110-128 (2011)
+  year: 2011
+  doi: ""
+-
+  authors: Neeldhara Misra, Geevarghese Philip, Venkatesh Raman, Saket Saurabh
+  pubtitle: On Parameterized Independent Feedback Vertex Set. 
+  type: conference
+  theme: comsoc
+  details: COCOON 2011, 98-109
+  year: 2011
+  doi: ""
+-
+  authors: Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, Geevarghese Philip, Saket Saurabh
+  pubtitle: Hitting forbidden minors - Approximation and Kernelization. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/1010.1365 (2010)
+  year: 2010
+  doi: "http://www.arxiv.org/abs/1010.1365"
+-
+  authors: Daniel Lokshtanov, Neeldhara Misra, Saket Saurabh
+  pubtitle: Imbalance Is Fixed Parameter Tractable. 
+  type: conference
+  theme: comsoc
+  details: COCOON 2010, 199-208
+  year: 2010
+  doi: ""
+-
+  authors: Abhimanyu M. Ambalath, Radheshyam Balasundaram, Chintan Rao H., Venkata Koppula, Neeldhara Misra, Geevarghese Philip, M. S. Ramanujan
+  pubtitle: On the Kernelization Complexity of Colorful Motifs. 
+  type: conference
+  theme: comsoc
+  details: IPEC 2010, 14-25
+  year: 2010
+  doi: ""
+-
+  authors: Neeldhara Misra, N. S. Narayanaswamy, Venkatesh Raman, Bal Sri Shankar
+  pubtitle: Solving minones-2-sat as Fast as vertex cover. 
+  type: conference
+  theme: comsoc
+  details: MFCS 2010, 549-555
+  year: 2010
+  doi: ""
+-
+  authors: Neeldhara Misra, Geevarghese Philip, Venkatesh Raman, Saket Saurabh
+  pubtitle: The effect of girth on the kernelization complexity of Connected Dominating Set. 
+  type: conference
+  theme: comsoc
+  details: FSTTCS 2010, 96-107
+  year: 2010
+  doi: ""
+-
+  authors: Neeldhara Misra, Geevarghese Philip, Venkatesh Raman, Saket Saurabh, Somnath Sikdar
+  pubtitle: FPT Algorithms for Connected Feedback Vertex Set. 
+  type: arxiv
+  theme: comsoc
+  details: CoRR abs/0909.3180 (2009)
+  year: 2009
+  doi: "http://www.arxiv.org/abs/0909.3180"
+-
+  authors: Neeldhara Misra, Venkatesh Raman, Saket Saurabh, Somnath Sikdar
+  pubtitle: The Budgeted Unique Coverage Problem and Color-Coding. 
+  type: conference
+  theme: comsoc
+  details: CSR 2009, 310-321
+  year: 2009
+  doi: ""
+-
+  authors: Michael R. Fellows, Daniel Lokshtanov, Neeldhara Misra, Matthias Mnich, Frances A. Rosamond, Saket Saurabh
+  pubtitle: The Complexity Ecology of Parameters - An Illustration Using Bounded Max Leaf Number. 
+  type: conference
+  theme: comsoc
+  details: Theory Comput. Syst. 45(4), 822-848 (2009)
+  year: 2009
+  doi: ""
+-
+  authors: Michael R. Fellows, Daniel Lokshtanov, Neeldhara Misra, Frances A. Rosamond, Saket Saurabh
+  pubtitle: Graph Layout Problems Parameterized by Vertex Cover. 
+  type: conference
+  theme: comsoc
+  details: ISAAC 2008, 294-305
+  year: 2008
+  doi: ""

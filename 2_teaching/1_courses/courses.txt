@@ -1,0 +1,169 @@
+Title: Courses
+----
+
+fulltitle: Courses
+
+----
+
+Intro: Upcoming and ongoing courses
+
+----
+
+Color: green
+
+----
+
+Courses:
+
+-
+  title: Discrete Mathematics
+  url: https://nptel.ac.in/courses/106/106/106106183/
+  audience: Undergraduate Course
+  coinstructor: "Sudarshan Iyengar"
+  coinstructor-icon: srs.png
+  duration: 2020 Fall Semester
+  code: CS82
+  location: NPTEL
+  image: dmnptel.jpg
+  status: Upcoming
+  description: "This course is an undergraduate-level introduction to Discrete Mathematics.<br><br>"
+-
+  title: CS Theory Toolkit
+  url: #
+  audience: Reading Group
+  duration: 2020 Summer Semester
+  code: Special Topics
+  location: IIT Gandhinagar
+  image: toolkit.jpg
+  status: Ongoing
+  description: "This course is a reading group based on the 2020 offering of the [CS Theory Toolkit](https://www.diderot.one/course/28/) course by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). The YouTube playlist of his lectures can be found [here](https://www.youtube.com/watch?v=prI35GmCon4&list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX). #streetfightingmath"
+-
+  title: Discrete Mathematics
+  url: http://bit.ly/ES214-2020
+  audience: Undergraduate Course
+  duration: 2020 Spring Semester
+  code: ES214
+  location: IIT Gandhinagar
+  image: dmiitgn.jpg
+  status: Ongoing
+  description: "This course covers introductory themes in discrete mathematics intended for a CS audience. Classes resume on the 8th of June. We have been relying heavily on (youtube: 3blue1brown), (YouTube: numberphile), and [the world of magical mathematics](https://press.princeton.edu/books/hardcover/9780691151649/magical-mathematics)."
+----
+
+Archives: 
+
+-
+  title: Analysis and Design of Algorithms
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Spring 2016
+  year: 2016
+  code: CS321
+-
+  title: Combinatorics with Applications in Computer Science
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Fall 2016
+  year: 2016
+  code: CS607
+-
+  title: Cultures of Communication
+  coinstructor: 3
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Fall 2016
+  year: 2016
+  code: FP601
+-
+  title: Graph Theory and Applications
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Spring 2017
+  year: 2017
+  code: MA607
+-
+  title: Cultures of Communication
+  coinstructor: 3
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Spring 2017
+  year: 2017
+  code: FP601
+-
+  title: Computing
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Fall 2017
+  year: 2017
+  code: ES112
+-
+  title: Combinatorics with Applications in Computer Science
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Spring 2016
+  year: 2016
+  code: CS321
+-
+  title: Graph Theory and Applications
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Fall 2018
+  year: 2018
+  code: MA607
+  url: "https://www.notion.so/iitgnweb/MA607-Graph-Theory-683b42c88fd24e99804fb4cd8d15a7b0"
+-
+  title:   Computing
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  url: "https://www.notion.so/iitgnweb/ES112-Computing-a5ddd13081df4f029de69ea37689a20d"
+  duration: Fall 2018
+  year: 2018
+  code: ES112
+-
+  title:  Introduction to Computing
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Summer 2018
+  year: 2018
+  code: ES102
+-
+  title: Discrete Mathematics
+  url: "https://www.notion.so/iitgnweb/ES214-Discrete-Mathematics-449301aa76af4a23a7604c0cd091d3cf"
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Spring 2019
+  year: 2019
+  code: ES214
+-
+  title: Advanced Algorithms
+  url: "https://www.notion.so/iitgnweb/CS614-Advanced-Algorithms-a3fb5c0379a94dd181f7ab63d2e71c25"
+  audience-icon: postgraduate
+  audience: Postgraduate Course
+  duration: Spring 2019
+  year: 2019
+  code: ES214
+-
+  title: Data Structures and Algorithms - I
+  url: "https://www.notion.so/iitgnweb/ES242-Data-Structures-and-Algorithms-I-abe21ee152f54defa13e87ff2e6c945a"
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Fall 2019
+  year: 2019
+  code: ES214
+-
+  title: Social Networks
+  url: "https://www.notion.so/iitgnweb/CS699-1-Social-Networks-414c1dcc601b4a1a906cd7227527dfd8"
+  audience-icon: topics
+  audience: Topics Course
+  duration: Fall 2019
+  year: 2019
+  code: ST601
+----
+
+-
+  title:   Discrete Mathematics
+  url: http://www.google.com
+  audience-icon: undergraduate
+  audience: Undergraduate Course
+  duration: Spring 2020
+  year: 2020
+  code: ES214

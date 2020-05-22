@@ -1,6 +1,0 @@
-Title: Bookmarks
-----
-fulltitle: Bookmarks
-----
-color: orange
-----
