@@ -5,7 +5,7 @@ fulltitle: Outreach
 
 ----
 
-Intro: Featured Courses
+Intro: Featured Schools, Workshops, and Events
 
 ----
 
@@ -14,6 +14,15 @@ Color: green
 ----
 
 Courses:
+-
+  title: Dagstuhl Seminar
+  url: "https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=21051"
+  bottomtext1: January 31 – February 5 , 2021 
+  keytexttop: Seminar 21051
+  bottomtext2: Dagstuhl
+  image: dagstuhl.jpg
+  badgetext: Upcoming
+  description: "Vertex Partitioning in Graphs: From Structure to Algorithms <br><br> Co-organizers: <br> Maria Chudnovsky (Princeton University, US) <br> Daniel Paulusma (Durham University, GB) <br> and Oliver Schaudt (ZF Friedrichshafen, DE)."
 -
   title: Pattern Matching Algorithms
   url: "http://events.iitgn.ac.in/2017/patternmatching/instructor"

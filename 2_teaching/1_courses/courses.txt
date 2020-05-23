@@ -19,14 +19,12 @@ Courses:
   title: Discrete Mathematics
   url: https://nptel.ac.in/courses/106/106/106106183/
   audience: Undergraduate Course
-  coinstructor: "Sudarshan Iyengar"
-  coinstructor-icon: srs.png
   duration: 2020 Fall Semester
   code: CS82
   location: NPTEL
   image: dmnptel.jpg
   status: Upcoming
-  description: "This course is an undergraduate-level introduction to Discrete Mathematics.<br><br>"
+  description: "This course is an undergraduate-level introduction to Discrete Mathematics. You can already find the prerecorded lectures from the course website. I will be joining Sudarshan Iyengar for the upcoming offering of this course. <br><br>"
 -
   title: CS Theory Toolkit
   url: #
