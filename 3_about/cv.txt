@@ -1,6 +1,0 @@
-Title: Resume
-----
-fulltitle: Resume
-----
-color: pink
-----

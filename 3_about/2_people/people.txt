@@ -1,0 +1,6 @@
+Title: People
+----
+fulltitle: People
+----
+color: yellow
+----
