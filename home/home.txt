@@ -8,7 +8,7 @@ color: purple
 
 text: 
 
-Welcome to my slice of virtual estate — I'm an Assistant Professor at the [Indian Institute of Technology, Gandhinagar](http://www.iitgn.ac.in). Here, I'm associated with the discipline of [Computer Science and Engineering](http://cs.iitgn.ac.in/). My primary research interest involves the design and analysis of efficient algorithms for "hard" problems in general, and parameterized algorithms in particular. The problems considered are typically concerned with combinatorial optimization, frequently in the context of graph theory, social choice, games, geometry, and constraint satisfaction.
+Welcome to my slice of virtual estate — I'm an Assistant Professor of [Computer Science and Engineering](http://cs.iitgn.ac.in) and the Associate Dean for External Communications at the [Indian Institute of Technology, Gandhinagar](http://www.iitgn.ac.in). My primary research interest involves the design and analysis of efficient algorithms for "hard" problems in general, and parameterized algorithms in particular. The problems considered are typically concerned with combinatorial optimization, frequently in the context of graph theory, social choice, games, geometry, and constraint satisfaction.
 
 If you enjoy reading content online, and are broadly interested in theoretical computer science, I would strongly recommend subscribing to the [TCS blog aggregator](http://cstheory-feed.org) or simply following [cstheory on Twitter](https://twitter.com/cstheory). Also check out [CSTheory Stack Exchange](http://cstheory.stackexchange.com/), which is to theoretical computer scientists what Stack Overflow and Math Overflow are to programmers and mathematicians, respectively. 
 

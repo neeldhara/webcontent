@@ -14,7 +14,7 @@ Courses:
 -
   title: Dagstuhl Seminar
   url: "https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=21051"
-  bottomtext1: January 31 – February 5 , 2021 
+  bottomtext1: 31st January to 5th February, 2021 
   keytexttop: Seminar 21051
   bottomtext2: Dagstuhl
   image: dagstuhl.jpg
@@ -23,7 +23,7 @@ Courses:
 -
   title: Pattern Matching Algorithms
   url: "http://events.iitgn.ac.in/2017/patternmatching/"
-  bottomtext1: 4th December 2017 to 8th December 2017
+  bottomtext1: 28th August 2017 to 7th September 2017
   keytexttop: Amihood Amir
   bottomtext2: IITGN
   image: pm.jpg
@@ -32,7 +32,7 @@ Courses:
 -
   title: Computational Social Choice
   url: "http://events.iitgn.ac.in/2017/comsoc/"
-  bottomtext1: 28th August 2017 to 07 September 2017
+  bottomtext1: 4th December 2017 to 8th December 2017
   keytexttop: Edith Elkind
   bottomtext2: IITGN
   image: comsoc.jpg

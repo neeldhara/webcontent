@@ -138,7 +138,7 @@ People:
 -
 
  name: Dhara Vora
- year: 2017
+ year: 2018
  role: writing
  type: present
  detail: 

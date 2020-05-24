@@ -18,7 +18,7 @@ Talks:
  venue: "CSA, IISc 2019"
  description: "This talk was based on joint work with Jayesh Choudhari, Anirban Dasgupta and M. S. Ramanujan. The talk was a part of the [CSA50 Pratiksha Trust Workshop on Theoretical Computer Science](https://events.csa.iisc.ac.in/wotcs2019/) organized by the [department of Computer Science and Automation (CSA)](http://csa.iisc.ac.in) at IISc as a part of a series of events held in 2019 to mark the golden jubilee year for the department. <br> The talk itself was a survey of algorithmic results in the context of the firefighting game. View the videos from the rest of the workshop [here](https://www.youtube.com/playlist?list=PLmx4utxjUQD7uL4uIM2zUFBrCPMD0xJDF)."
  featured: NO
- type: full
+ type: invited
  id: a5BTgXOuIl4
  format: youtube
 
@@ -28,7 +28,7 @@ Talks:
  venue: "Workshop at NUS, 2017"
  description: "This talk was a part of the [Workshop on Parametric Complexity](https://ims.nus.edu.sg/events/2017/asp/wk2.php) at NUS, which in turn was a part of a four-week program called "[Aspects of Computation](https://ims.nus.edu.sg/events/2017/asp/index.php#overview)" held in celebration of the research work of [Professor Rod Downey](https://homepages.ecs.vuw.ac.nz/~downey/) at [NUS](http://nus.edu.sg/). The four-week full program focused on recent developments in parametric complexity theory, computability theory with applications in algebra, algorithmic randomness, model theory, etc. I spoke about exploiting structure in voting profiles to obtain efficient algorithms for problems that are computationally intractable in general.
  featured: YES
- type: full
+ type: invited
  id: 234427394
  format: slides
 
@@ -38,7 +38,7 @@ Talks:
  venue: "CS-Econ Seminar Series, Duke, 2016"
  description: "I gave this talk when I was visiting [Duke University](http://duke.edu) during the summer of 2016. It was based on joint work with Palash Dey. The talk focused on the problem of preference elicitation, where the goal is to understand the preferences of agents (which we model by total orders) by querying them about their pairwise preferences."
  featured: NO
- type: full
+ type: invited
  id: 234425341
  format: slides
 
@@ -48,7 +48,7 @@ Talks:
  venue: "ITCDM 2015"
  description: "This talk was a part of the fourth edition of the wonderful [India-Taiwan Conference on Discrete Mathematics](https://home.iitm.ac.in/naru/itcdm2015/#home) held at [IIT Madras](http://www.iitm.ac.in/) in 2015.  The talk was about graph modification problems, seen from the lens of forbidden minors, and was mostly in an algorithmic context. The literature has certainly evolved since, hopefully a blog post about more recent developments will be up soon!"
  featured: NO
- type: full
+ type: invited
  id: 234426105
  format: slides 
 
@@ -174,11 +174,11 @@ Talks:
 
 ----
 
-Categories: featured, full, conference, tutorial, popular
+Categories: featured, invited, conference, tutorial, popular
 
 ----
 
-Fullcatnames: Featured, Full-Length Talks, Conference Talks, Tutorials, Popular
+Fullcatnames: Featured, Invited Talks, Conference Talks, Tutorials, Popular
 
 ----
 
