@@ -30,6 +30,10 @@ People:
  detail: 
  status:
  picture: devarsh.jpg
+ facebook: dev.barbhaya
+ twitter: 
+ linkedin:
+ instagram: 
  
 -
 
@@ -40,6 +44,11 @@ People:
  detail:
  status:
  picture: hatim.jpg
+ facebook: hatimsham
+ twitter: 
+ linkedin: in/hatimsham
+ instagram: 
+ 
 
 -
 
@@ -50,6 +59,10 @@ People:
  detail: 
  status: 
  picture: chandni.jpg
+ facebook: profile.php?id=100009115277195
+ twitter: 
+ linkedin:
+ instagram: chand1205__
  
 -
 
@@ -60,6 +73,10 @@ People:
  detail: 
  status:
  picture: divyangi.png
+ facebook: divyangi.chaudhari
+ twitter: 
+ linkedin:
+ instagram: divyangi_dj
 
 -
 
@@ -70,6 +87,10 @@ People:
  detail: 
  status:
  picture: tej.jpg
+ facebook: tejbgurung20
+ twitter: 
+ linkedin: in/tej-bahadur-gurung-8b94232a/
+ instagram: tejdgurung
 
 -
 
@@ -80,6 +101,10 @@ People:
  detail: 
  status:
  picture: dilip.png
+ facebook: Dilip.kashyap.15
+ twitter: 
+ linkedin: in/dilip-kashyap-49aaaaa0/
+ instagram: 
 
 -
 
@@ -90,6 +115,10 @@ People:
  detail: 
  status:
  picture: shivangi.jpg
+ facebook: shivangi.bhatt.501
+ twitter: 
+ instagram: shivangimayavasudev
+ linkedin: in/shivangi-bhatt-365b4a38/
  
 -
 
@@ -100,6 +129,10 @@ People:
  detail: 
  status: 
  picture: apeksha.jpg
+ facebook: apeksha.s.731
+ twitter: 
+ linkedin: in/srivastava-apeksha/
+ instagram: 
  url: "https://medium.com/@apeksha.0503"
 
 -
@@ -111,6 +144,10 @@ People:
  detail: 
  status:
  picture: dhara.jpg
+ facebook: dhara.vora.9461
+ twitter: 
+ linkedin: in/dhara-vora-379b7616b/
+ instagram: voradhara46
 
 -
 
@@ -121,6 +158,10 @@ People:
  detail: 
  status:
  picture: vandana.jpg
+ facebook: vannasays
+ twitter: 
+ linkedin: in/vandanayadav15/
+ instagram: tuneinvy1591
 
 -
 
@@ -131,6 +172,10 @@ People:
  detail: 
  status:
  picture: mariyah.jpg
+ facebook: mariya.raja
+ twitter: 
+ linkedin: in/mariya-raja-951264102/
+ instagram: mariyah_raja
 
 -
 
@@ -141,6 +186,10 @@ People:
  detail: 
  status:
  picture: khushbu.jpg
+ facebook: khushbu.shah.123276
+ twitter: 
+ linkedin: in/khushbu29497
+ instagram: 
 
 -
 
@@ -151,6 +200,10 @@ People:
  detail: 
  status:
  picture: dayananda.jpg
+ facebook: dayananda.meitei
+ twitter: 
+ linkedin: in/dayameitei/
+ instagram: dayameitei
 
 -
 
@@ -161,6 +214,10 @@ People:
  detail: 
  status:
  picture: girl-blank.png
+ facebook: 
+ twitter: 
+ linkedin: in/ritu-agarwal-8776b544/
+ instagram: 
 
 ----
 
@@ -182,3 +239,7 @@ FullCatNames: Current Team, Past Members
  detail:
  status:
  picture: gaurav.jpg
+ facebook: 
+ twitter: 
+ linkedin:
+ instagram: 
