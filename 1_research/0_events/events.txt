@@ -1,0 +1,42 @@
+
+Title: Events
+----
+
+fulltitle: Research Events
+
+----
+
+Color: red
+
+----
+
+Courses:
+-
+  title: Dagstuhl Seminar
+  url: "https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=21051"
+  bottomtext1: January 31 – February 5 , 2021 
+  keytexttop: Seminar 21051
+  bottomtext2: Dagstuhl
+  image: dagstuhl.jpg
+  badgetext: Upcoming
+  description: "Vertex Partitioning in Graphs: From Structure to Algorithms <br><br> Co-organizers: <br> Maria Chudnovsky (Princeton University, US) <br> Daniel Paulusma (Durham University, GB) <br> and Oliver Schaudt (ZF Friedrichshafen, DE)."
+-
+  title: Pattern Matching Algorithms
+  url: "http://events.iitgn.ac.in/2017/patternmatching/"
+  bottomtext1: 4th December 2017 to 8th December 2017
+  keytexttop: Amihood Amir
+  bottomtext2: IITGN
+  image: pm.jpg
+  badgetext: GIAN Course
+  description: "This course was a modern introduction to the field of pattern matching algorithms. These problems are among the oldest in computer science. For example, Celera Genomics used shotgun sequencing to complete the first sequenced genome. Every text editor uses the Boyer-Moore algorithm. The area remains a fertile ground for very active current research."
+-
+  title: Computational Social Choice
+  url: "http://events.iitgn.ac.in/2017/comsoc/"
+  bottomtext1: 28th August 2017 to 07 September 2017
+  keytexttop: Edith Elkind
+  bottomtext2: IITGN
+  image: comsoc.jpg
+  badgetext: GIAN Course
+  description: "This course was an introduction to the rapidly growing field of computational social choice, which -- at the intersection of computer science and economics -- deals with the algorithmic and complexity-theoretic aspects of collective decision making. This course addresses several algorithmic and complexity-theoretic themes in computational social choice."
+
+----

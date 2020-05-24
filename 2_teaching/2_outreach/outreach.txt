@@ -9,38 +9,59 @@ Intro: Featured Schools, Workshops, and Events
 
 ----
 
-Color: green
+Color: orange
 
 ----
 
-Courses:
+Featured:
+
 -
-  title: Dagstuhl Seminar
-  url: "https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=21051"
-  bottomtext1: January 31 – February 5 , 2021 
-  keytexttop: Seminar 21051
-  bottomtext2: Dagstuhl
-  image: dagstuhl.jpg
-  badgetext: Upcoming
-  description: "Vertex Partitioning in Graphs: From Structure to Algorithms <br><br> Co-organizers: <br> Maria Chudnovsky (Princeton University, US) <br> Daniel Paulusma (Durham University, GB) <br> and Oliver Schaudt (ZF Friedrichshafen, DE)."
+  title: PC Workshop 201
+  badgetext: Workshop
+  bottomtext1: 6th Mar to 8th Mar 2020
+  bottomtext2: IISER Pune
+  keytexttop: Parameterized Complexity
+  role: Coordinator
+  url: https://sites.google.com/students.iiserpune.ac.in/iiserpc201/home
+  description: This workshop will start by defining the basic notions in parameterized complexity, introduce some basic methods in both designing parameterized algorithms as well as show such algorithms are not possible.  Finally, we will cover some new directions where the research is taking place.
+  image: Asset7.png
+
 -
-  title: Pattern Matching Algorithms
-  url: "http://events.iitgn.ac.in/2017/patternmatching/instructor"
-  bottomtext1: 4th December 2017 to 8th December 2017
-  keytexttop: Amihood Amir
-  bottomtext2: IITGN
-  image: pm.jpg
-  badgetext: GIAN Course
-  description: "This course was a modern introduction to the field of pattern matching algorithms. These problems are among the oldest in computer science. For example, Celera Genomics used shotgun sequencing to complete the first sequenced genome. Every text editor uses the Boyer-Moore algorithm. The area remains a fertile ground for very active current research."
+
+  title: Student Seminar
+  badgetext: Seminar
+  bottomtext1: 13th and 14th Feb 2020
+  bottomtext2: IIT Gandhinagar
+  keytexttop: 14th Edition of ACM-IRISS 
+  role: Coordinator
+  url: http://events.iitgn.ac.in/2020/IRISS/
+  description: The Inter-Research-Institute Student Seminar in Computer Science (ACM-IRISS) is ACM-India's premium venue for research scholars in Computer Science and allied fields in India. It is a forum that brings together audiences from diverse backgrounds, spanning both academia and industry. Watch out for the 2021 edition, which will be held at IMSc! 
+  image: Asset12.png
+
 -
-  title: Computational Social Choice
-  url: "http://events.iitgn.ac.in/2017/comsoc/"
-  bottomtext1: 28th August 2017 to 07 September 2017
-  keytexttop: Edith Elkind
-  bottomtext2: IITGN
-  image: comsoc.jpg
-  badgetext: GIAN Course
-  description: "This course was an introduction to the rapidly growing field of computational social choice, which -- at the intersection of computer science and economics -- deals with the algorithmic and complexity-theoretic aspects of collective decision making. This course addresses several algorithmic and complexity-theoretic themes in computational social choice."
+
+  title: Algorithmic Game Theory
+  badgetext: School
+  bottomtext1: 2nd July to 14th July
+  bottomtext2: IIT Gandhinagar
+  keytexttop: ACM-W Summer School
+  role: Coordinator
+  url: http://events.iitgn.ac.in/2019/ACMSummerSchool/
+  description: The school focused on topics in Computational Social Choice, covering traditional topics and recent advances alike. The broad themes that were covered included stable and popular matchings, fair division of indivisible items and cake cutting and problems related to elections and voting. View the lecture videos [here](https://nptel.ac.in/courses/128/106/128106007/). 
+  image: Asset6.png
+
+-
+
+  title: Graph Theory and Algorithms
+  badgetext: School
+  bottomtext1: 26th June to 15th July 2017
+  bottomtext2: IIT Gandhinagar
+  keytexttop: ACM-India Summer School
+  role: Coordinator
+  url: http://events.iitgn.ac.in/2017/ACMSummerSchool/
+  description: The objective of this summer school is to provide a forum for learning and discussing several foundational aspects of structural graph theory, interleaved with perspectives from algorithmic graph theory. The lectures in this school were designed to provide exposure to both these aspects.
+  image: Asset13.png
+
 ----
 
 Archives: 
