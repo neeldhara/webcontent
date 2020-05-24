@@ -1,0 +1,184 @@
+Title: Communications
+
+----
+
+Fulltitle: External Communications
+
+----
+
+Intro:
+
+-
+
+  type: present
+  text: "This is the amazing team that keeps all external communications affairs at IITGN running smoothly behind the scenes. Apart from their outstanding talents, they are just among the nicest people I know, and it is delightful working with them."
+
+----
+
+color: green
+
+----
+
+People: 
+
+-
+
+ name: Devarsh Barbhaya
+ year: 2016
+ role: media
+ type: present
+ detail: 
+ status:
+ picture: devarsh.jpg
+ 
+-
+
+ name: Hatim Sham
+ year: 2018
+ role: media
+ type: present
+ detail:
+ status:
+ picture: hatim.jpg
+
+-
+
+ name: Chandni Vidhani
+ year: 2019
+ role: media
+ type: present
+ detail: 
+ status: 
+ picture: chandni.jpg
+ 
+-
+
+ name: Divyangi Chaudhari
+ year: 2018
+ role: website
+ type: present
+ detail: 
+ status:
+ picture: divyangi.png
+
+-
+
+ name: Tej Gurung
+ year: 2017
+ role: website
+ type: present
+ detail: 
+ status:
+ picture: tej.jpg
+
+-
+
+ name: Dilip Kashyap
+ year: 2018
+ role: website
+ type: present
+ detail: 
+ status:
+ picture: dilip.png
+
+-
+
+ name: Shivangi Vasudev Bhatt
+ year: 2018
+ role: writing
+ type: present
+ detail: 
+ status:
+ picture: shivangi.jpg
+ 
+-
+
+ name: Apeksha Srivastava
+ year: 2019
+ role: writing
+ type: present
+ detail: 
+ status: 
+ picture: apeksha.jpg
+ url: "https://medium.com/@apeksha.0503"
+
+-
+
+ name: Dhara Vora
+ year: 2017
+ role: writing
+ type: present
+ detail: 
+ status:
+ picture: dhara.jpg
+
+-
+
+ name: Vandana Yadav
+ year: 2017
+ role: writing
+ type: present
+ detail: 
+ status:
+ picture: vandana.jpg
+
+-
+
+ name: Mariyah Raja
+ year: 2016 -- 2017
+ role: writing
+ type: past
+ detail: 
+ status:
+ picture: mariyah.jpg
+
+-
+
+ name: Khushbu Shah
+ year: 2017 -- 2018
+ role: writing
+ type: past
+ detail: 
+ status:
+ picture: khushbu.jpg
+
+-
+
+ name: Dayananda Meitei
+ year: 2012 -- 2017
+ role: writing
+ type: past
+ detail: 
+ status:
+ picture: dayananda.jpg
+
+-
+
+ name: Ritu Agarwal
+ year: 2009 -- 2016
+ role: writing
+ type: past
+ detail: 
+ status:
+ picture: girl-blank.png
+
+----
+
+Categories: present, past
+
+----
+
+FullCatNames: Current Team, Past Members
+
+----
+
+
+-
+
+ name: Gaurav Shukla
+ year: 2016
+ role: media
+ type: present
+ detail:
+ status:
+ picture: gaurav.jpg

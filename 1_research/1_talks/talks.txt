@@ -1,23 +1,19 @@
 Title: Talks
-----
-fulltitle: Talks
-----
-color: 
-----
-intro: This page is best viewed on a desktop device and the slides in fullscreen.
-----
-categories: featured, full, conference, tutorial, popular
-----
-fullcatnames: Featured, Full-Length Talks, Conference Talks, Tutorials, Popular
-----
-text: 
 
-All slides were made either with Beamer+PGF/TikZ or Keynote. The fonts are typically free fonts picked up from the internet. When using LaTeX, I prefer to compile the math with Euler fonts. 
-
-All the slides are on Slideshare and can take some time to load. If you follow through to slideshare, you can download the slides (all of them are PDF files) for offline viewing. 
 ----
-talks:
+
+Fulltitle: Talks
+
+----
+
+Intro: This page is best viewed on a desktop device and the slides in fullscreen.
+
+----
+
+Talks:
+
 -
+
  title: "Firefighting with Critical Nodes"
  venue: "CSA, IISc 2019"
  description: "This talk was based on joint work with Jayesh Choudhari, Anirban Dasgupta and M. S. Ramanujan. The talk was a part of the [CSA50 Pratiksha Trust Workshop on Theoretical Computer Science](https://events.csa.iisc.ac.in/wotcs2019/) organized by the [department of Computer Science and Automation (CSA)](http://csa.iisc.ac.in) at IISc as a part of a series of events held in 2019 to mark the golden jubilee year for the department. <br> The talk itself was a survey of algorithmic results in the context of the firefighting game. View the videos from the rest of the workshop [here](https://www.youtube.com/playlist?list=PLmx4utxjUQD7uL4uIM2zUFBrCPMD0xJDF)."
@@ -25,7 +21,9 @@ talks:
  type: full
  id: a5BTgXOuIl4
  format: youtube
+
 -
+
  title: "Efficient algorithms for hard problems on structured electorates"
  venue: "Workshop at NUS, 2017"
  description: "This talk was a part of the [Workshop on Parametric Complexity](https://ims.nus.edu.sg/events/2017/asp/wk2.php) at NUS, which in turn was a part of a four-week program called "[Aspects of Computation](https://ims.nus.edu.sg/events/2017/asp/index.php#overview)" held in celebration of the research work of [Professor Rod Downey](https://homepages.ecs.vuw.ac.nz/~downey/) at [NUS](http://nus.edu.sg/). The four-week full program focused on recent developments in parametric complexity theory, computability theory with applications in algebra, algorithmic randomness, model theory, etc. I spoke about exploiting structure in voting profiles to obtain efficient algorithms for problems that are computationally intractable in general.
@@ -33,7 +31,9 @@ talks:
  type: full
  id: 234427394
  format: slides
+
 -
+
  title: "Elicitation for Preferences <br>Single Peaked on Trees"
  venue: "CS-Econ Seminar Series, Duke, 2016"
  description: "I gave this talk when I was visiting [Duke University](http://duke.edu) during the summer of 2016. It was based on joint work with Palash Dey. The talk focused on the problem of preference elicitation, where the goal is to understand the preferences of agents (which we model by total orders) by querying them about their pairwise preferences."
@@ -41,7 +41,9 @@ talks:
  type: full
  id: 234425341
  format: slides
+
 -
+
  title: "Parameterized Graph Modification <br>A Modern Perspective"
  venue: "ITCDM 2015"
  description: "This talk was a part of the fourth edition of the wonderful [India-Taiwan Conference on Discrete Mathematics](https://home.iitm.ac.in/naru/itcdm2015/#home) held at [IIT Madras](http://www.iitm.ac.in/) in 2015.  The talk was about graph modification problems, seen from the lens of forbidden minors, and was mostly in an algorithmic context. The literature has certainly evolved since, hopefully a blog post about more recent developments will be up soon!"
@@ -49,7 +51,9 @@ talks:
  type: full
  id: 234426105
  format: slides 
+
 -
+
  title: "Deleting to Structured Trees"
  venue: "COCOON 2019 "
  description: "This talk was based on joint work with Pratyush Dayal and was delivered (remotely) at COCOON 2019. Here, we consider a natural variant of the well-known Feedback Vertex Set problem, namely the problem of deleting a small subset of vertices or edges to a full binary tree. This version of the problem is motivated by real-world scenarios that are best modeled by full binary trees. We establish that both versions of the problem are NP-hard, which stands in contrast to the fact that deleting edges to obtain a forest or a tree is equivalent to the problem of finding a minimum cost spanning tree, which can be solved in polynomial time. We also establish that both problems are FPT by the standard parameter."
@@ -57,7 +61,9 @@ talks:
  type: conference
  id: 234425471
  format: slides
+
 -
+
  title: "Parameterized Complexity of Party Nominations"
  venue: "ADT 2019"
  description: "Many thanks to [Dominik Peters](http://www.dominik-peters.de/) for presenting it on my behalf at ADT 2019. Consider a fixed voting rule R. In the _Possible President_ problem, we are given an election where the candidates are partitioned into parties, and the problem is to determine if, given a party P, it is possible for every party to nominate a candidate such that the nominee from P is a winner of the election that is obtained by restricting the votes to the nominated candidates. In the _Necessary President_ problem, we would like to find a nominee who wins no matter who else is nominated. In this talk, we explore the complexity of these problems, which can be thought of as the two natural extremes of the party nomination problem."
@@ -65,7 +71,9 @@ talks:
  type: conference
  id: 234427013
  format: slides 
+
 -
+
  title: "An EKR theorem for matchings in the complete graph"
  venue: "Eurocomb 2013"
  description: "The talk concerns the following higher-order analog of the Erdős-Ko-Rado theorem. For positive integers (mymath: r) and (mymath: n) with (mymath: r \leq n), let (mymath: M^r\_n) be the family of all matchings of size r in the complete graph (mymath: K\_{2n}). For any edge (mymath: e) in (mymath: E(K\_{2n})), the family (mymath: M^r\_n(e)), which consists of all sets in (mymath: M^r\_n) containing (mymath: e), is called the star centered at (mymath: e). We prove that if $r<n$ and $\mathcal{A}$ is an intersecting family of matchings in (mymath: M^r\_n), then (mymath: |\mathcal{A}|\leq |M^r\_n(e))|, where (mymath: e) is an edge in (mymath: E(K\_{2n})). We also prove that equality holds if and only if $\mathcal{A}$ is a star. The main technique we use to prove the theorem is an analog of Katona's elegant cycle method."
@@ -73,7 +81,9 @@ talks:
  type: conference
  id: 24562724
  format: slides
+
 -
+
  title: "An FPT Algorithm for the <br>Maximum Edge Coloring Problem"
  venue: "MFCS 2013"
  description: "This talk was based on joint work with Prachi Goyal and Vikram Kamat. Here, we investigate the parameterized complexity of the following edge coloring problem motivated by the problem of channel assignment in wireless networks. For an integer q>1 and a graph G, the goal is to find a coloring of the edges of G with the maximum number of colors such that every vertex of the graph sees at most q colors. This problem is NP-hard for q>1. For the case when q=2, we show fixed-parameter tractable algorithms for both the standard and the dual parameter, and for the latter problem, the result is based on a linear vertex kernel."
@@ -81,15 +91,19 @@ talks:
  type: conference
  id: 24562724
  format: slides
-- 
+
+-
+
  title: "Efficient Simplification: The (im)possibilities"
  venue: "IMPECS 2010"
- description: "This was a tutorial about upper and lower bounds in kernelization back in 2010. While the upper bounds are mostly presented the same way, you might want to look up cross-composition for the lower bounds -- while the ideas are similar, the terminology has evolved since. See the [Kernelization book](https://kernelization.ii.uib.no/) for a deep dive into both upper and lower bounds, and even coping strategies for lower bounds including Turing kernels and Lossy kernels. "
+ description: "This was a tutorial about upper and lower bounds in kernelization back in 2010. While the upper bounds are mostly presented the same way, you might want to look up cross-composition for the lower bounds --while the ideas are similar, the terminology has evolved since. See the [Kernelization book](https://kernelization.ii.uib.no/) for a deep dive into both upper and lower bounds, and even coping strategies for lower bounds including Turing kernels and Lossy kernels. "
  id: 6159871
  featured: YES
  type: tutorial
  format: slides
-- 
+
+-
+
  title: "An Introduction to Voting"
  venue: "AGT Summer School, 2019"
  description: "These talks were a part of the ACM-W India Summer School on Algorithmic Game Theory held in 2019 at IIT Gandhinagar. These tutorials were a part of the session on Voting. You can find the full playlist of videos from the summer school [here](https://nptel.ac.in/courses/128/106/128106007/). The other two themes explored in the school were matchings and fair division. "
@@ -97,7 +111,9 @@ talks:
  featured: NO
  type: tutorial
  format: youtube
-- 
+
+-
+
  title: "Arrow's Theorem"
  venue: "AGT Summer School, 2019"
  description: "These talks were a part of the ACM-W India Summer School on Algorithmic Game Theory held in 2019 at IIT Gandhinagar. These tutorials were a part of the session on Voting. You can find the full playlist of videos from the summer school [here](https://nptel.ac.in/courses/128/106/128106007/). The other two themes explored in the school were matchings and fair division. "
@@ -105,7 +121,9 @@ talks:
  featured: NO
  type: tutorial
  format: youtube
-- 
+
+-
+
  title: "Gibbard Satterthwaite Theorem"
  venue: "AGT Summer School, 2019"
  description: "These talks were a part of the ACM-W India Summer School on Algorithmic Game Theory held in 2019 at IIT Gandhinagar. These tutorials were a part of the session on Voting. You can find the full playlist of videos from the summer school [here](https://nptel.ac.in/courses/128/106/128106007/). The other two themes explored in the school were matchings and fair division. "
@@ -113,7 +131,9 @@ talks:
  featured: NO
  type: tutorial
  format: youtube
+
 -
+
  title: "Tournament Fixing and Superkings"
  venue: "AGT Summer School, 2019"
  description: "These talks were a part of the ACM-W India Summer School on Algorithmic Game Theory held in 2019 at IIT Gandhinagar. These tutorials were a part of the session on Voting. You can find the full playlist of videos from the summer school [here](https://nptel.ac.in/courses/128/106/128106007/). The other two themes explored in the school were matchings and fair division. "
@@ -121,7 +141,9 @@ talks:
  featured: NO
  type: tutorial
  format: youtube
+
 -
+
  title: "Domain Restrictions and Multiwinner Elections"
  venue: "AGT Summer School, 2019"
  description: "These talks were a part of the ACM-W India Summer School on Algorithmic Game Theory held in 2019 at IIT Gandhinagar. These tutorials were a part of the session on Voting. You can find the full playlist of videos from the summer school [here](https://nptel.ac.in/courses/128/106/128106007/). The other two themes explored in the school were matchings and fair division. "
@@ -129,7 +151,9 @@ talks:
  featured: NO
  type: tutorial
  format: youtube
+
 -
+
  title: "Evolution of Trust"
  venue: "SRIP 2019"
  description: "This talk was addressed to the 2019 batch of summer interns admitted to IIT Gandhinagar under the [Summer Research Internship Program](https://srip.iitgn.ac.in/info/). The content was based entirely on a beautiful "explorable explanation" called [The Evolution of Trust](http://ncase.me/trust) by the amazing [Nicky Case](http://ncase.me). The interactions with the audience were powered by [Mentimeter](http://mentimeter.com)."
@@ -137,7 +161,9 @@ talks:
  featured: YES
  type: popular
  format: youtube
+
 -
+
  title: "Cheat Sheets for Hard Problems"
  venue: "CSA, IISc 2013"
  description: "The Department of Computer Science and Automation at the Indian Institute of Science has a rich tradition of hosting summer schools for undergraduate audiences. This talk was a part of the [first edition](https://events.csa.iisc.ac.in/summerschool2013/index.html) organized in 2013 and was a broad introduction to strategies for coping with NP-hardness. The remaining talks in the summer school can be found [here](https://events.csa.iisc.ac.in/summerschool2013/schedule.html). Most of them have accompanying slides and videos. You might also be interested in the subsequent editions: [2014](https://events.csa.iisc.ac.in/summerschool2014/), [2016](https://www.youtube.com/playlist?list=PLmx4utxjUQD70Ug9IvPip8gtpbw-Bpf2G), [2017](https://www.youtube.com/watch?v=oL96ealNQmU&list=PLmx4utxjUQD7iOR2b3XoT0v0FdzmxPSIi), [2018](https://events.csa.iisc.ac.in/summerschool2018/), and [2019](https://events.csa.iisc.ac.in/summer-school-2019/)."
@@ -145,4 +171,21 @@ talks:
  featured: NO
  type: popular
  format: hosted
+
+----
+
+Categories: featured, full, conference, tutorial, popular
+
+----
+
+Fullcatnames: Featured, Full-Length Talks, Conference Talks, Tutorials, Popular
+
+----
+
+Text: 
+
+All slides were made either with Beamer+PGF/TikZ or Keynote. The fonts are typically free fonts picked up from the internet. When using LaTeX, I prefer to compile the math with Euler fonts. 
+
+All the slides are on Slideshare and can take some time to load. If you follow through to slideshare, you can download the slides (all of them are PDF files) for offline viewing. 
+
 ----
