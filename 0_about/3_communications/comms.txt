@@ -33,7 +33,7 @@ People:
  facebook: dev.barbhaya
  twitter: 
  linkedin:
- instagram: 
+ instagram: dev_barbhaya
  
 -
 
