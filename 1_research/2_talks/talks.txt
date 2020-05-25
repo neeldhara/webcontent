@@ -14,6 +14,18 @@ Talks:
 
 -
 
+ title: "Fair Division with Minimal Sharing"
+ venue: "Rump Session: COMSOC Video Seminar"
+ description: "This talk was a five-minute presentation of a cute open problem in the context of fair division with minimal sharing, following up from work of [Fedor Sandomirskiy ](https://www.fedors.info/) and [Erel Segal-Halevi](http://tora.us.fm/erelsgl/) from [last year](https://arxiv.org/abs/1908.01669). To view the entire session with ten talks in all -- complete with the chat transcript -- please see the wonderful [COMSOC Video Seminar page](https://sites.google.com/view/comsoc-seminar/). I should also point out that the last slide in my presentation had a typo: the claim about EF1+fPO was about EF+fPO. The result is joint work with Aditi Sethia and a preprint will be available soon!"
+ featured: YES
+ type: invited
+ id: a5BTgXOuIl4
+ format: hosted
+ path: comsoc-rumpsession.webm
+ coverimage: rump-session-cover.png
+
+-
+
  title: "Firefighting with Critical Nodes"
  venue: "CSA, IISc 2019"
  description: "This talk was based on joint work with Jayesh Choudhari, Anirban Dasgupta and M. S. Ramanujan. The talk was a part of the [CSA50 Pratiksha Trust Workshop on Theoretical Computer Science](https://events.csa.iisc.ac.in/wotcs2019/) organized by the [department of Computer Science and Automation (CSA)](http://csa.iisc.ac.in) at IISc as a part of a series of events held in 2019 to mark the golden jubilee year for the department. <br> The talk itself was a survey of algorithmic results in the context of the firefighting game. View the videos from the rest of the workshop [here](https://www.youtube.com/playlist?list=PLmx4utxjUQD7uL4uIM2zUFBrCPMD0xJDF)."
@@ -171,6 +183,8 @@ Talks:
  featured: NO
  type: popular
  format: hosted
+ path: video-cstalk.webm
+ coverimage: cstalk-cover.png
 
 ----
 

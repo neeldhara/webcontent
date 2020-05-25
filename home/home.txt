@@ -21,6 +21,10 @@ news:
  itemtype: special
  url: ""
 -
+ item: "New talk added -- a part of the rump session in the [COMSOC Video Seminar](https://sites.google.com/view/comsoc-seminar/), and about an open problem in the context of fair division with minimal sharing. See the [talks](research/talks) page!"
+ itemtype: special
+ url: ""
+-
  item: "New preprint on ArXiV:<br> _Red-Blue Point Separation for Points on a Circle_ <br> (coauthored with Harshil Mittal and Aditi Sethia)"
  itemtype: paper
  url: "https://arxiv.org/abs/2005.06046"
