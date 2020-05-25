@@ -26,7 +26,7 @@ Talks:
 
  title: "Efficient algorithms for hard problems on structured electorates"
  venue: "Workshop at NUS, 2017"
- description: "This talk was a part of the [Workshop on Parametric Complexity](https://ims.nus.edu.sg/events/2017/asp/wk2.php) at NUS, which in turn was a part of a four-week program called "[Aspects of Computation](https://ims.nus.edu.sg/events/2017/asp/index.php#overview)" held in celebration of the research work of [Professor Rod Downey](https://homepages.ecs.vuw.ac.nz/~downey/) at [NUS](http://nus.edu.sg/). The four-week full program focused on recent developments in parametric complexity theory, computability theory with applications in algebra, algorithmic randomness, model theory, etc. I spoke about exploiting structure in voting profiles to obtain efficient algorithms for problems that are computationally intractable in general.
+ description: "This talk was a part of the [Workshop on Parametric Complexity](https://ims.nus.edu.sg/events/2017/asp/wk2.php) at NUS, which in turn was a part of a four-week program called "[Aspects of Computation](https://ims.nus.edu.sg/events/2017/asp/index.php#overview)" held in celebration of the research work of [Professor Rod Downey](https://homepages.ecs.vuw.ac.nz/~downey/) at [NUS](http://nus.edu.sg/). The four-week full program focused on recent developments in parametric complexity theory, computability theory with applications in algebra, algorithmic randomness, model theory, etc. I spoke about exploiting structure in voting profiles to obtain efficient algorithms for problems that are computationally intractable in general."
  featured: YES
  type: invited
  id: 234427394

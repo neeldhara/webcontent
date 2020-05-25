@@ -1,0 +1,51 @@
+title:
+How expensive can homework help be? (Part 1)
+----
+tags:
+exposition
+----
+text:
+<div class="columns sixteen" markdown="1">
+<p>This post is based on an expository explanation of iterative compression that I attempted at the Institute Seminar Week in 2010, at IMSc.</p>
+
+<hr />
+
+<p>Tapesh has been struggling lately with the dire task of undergraduate homework. He has been asked to find a <a href="http://en.wikipedia.org/wiki/Vertex_cover" target="_blank">vertex cover</a> on 23 vertices - not one more - in a graph that has a thousand vertices. Being the straightforward boy, Tapesh considers writing a program that will try its luck on <em>every</em> possible subset of 23 vertices. </p>
+
+<p>He then heads over to <a href="http://www.wolframalpha.com/input/?i=%281000+choose+23%29%2F10%5E24+seconds%2C+age+of+the+universe+in+seconds" title="Follow the link to see the computation." class="tinytips">Wolfram Alpha</a> to check how long it will be before he&#8217;s done, assuming (rather liberally) that he has at his disposal a computer that can perform $10^{24}$ operations per second.</p>
+
+<p>It turns out that he, and more critically, his professor, would be in for a long, long wait. The algorithm would need time proportional to the age of the universe many times over, and this is decidedly depressing, particularly when one&#8217;s expected lifespan appears to be determined by the deadline for turning in homework.</p>
+
+<p>Tapesh now appeals to his very clever cousin, Prodosh, for help.</p>
+
+<p>Prodosh borrows the monstrous graph, and in short order, points out a vertex cover on 24 vertices, using powers evidently beyond what processors with $10^{24}$ FLOPS can do. Tapesh is thrilled, however&#8230;</p>
+
+<p>&#8220;I need to get one with 23, the assignment says <em>not one more</em> &#8212;&#8221;</p>
+
+<p>&#8220;Time for a smoke,&#8221; Prodosh yawns, and then delves into a distracted, pensive mood, with no signs of immediate return.</p>
+
+<p>Tapesh is torn, but he decides to (gulp) show whatever he has so far - after all, it is progress! </p>
+
+<p>Predictably, Professor Maganlal displays no signs of being impressed, but he grudgingly admits that Tapesh&#8217;s solution (which we will call $T$) is not very far from the correct answer, and points out those vertices in $T$ that happen to partake in the solution that was sought. </p>
+
+<p>Tapesh is back to the drawing board, but with the distinct feeling that he is now armed with enough information to crack the code himself. </p>
+
+<p>His solution $T$ is now partitioned into the good part $(T_G)$, that is, all the vertices of $T$ that belong to $X$, and the bad part $(T_B)$, which are all the vertices that do not belong to $X$.</p>
+
+<p>&#8220;Aha.&#8221;</p>
+
+<p>Necessarily, all the neighbors of the bad part must belong to $X$!</p>
+
+<p>He checks, and sure enough, the number of vertices in $T_G$ and $N(T_B)$ is an exact, resounding 23. Also, very fortunately, there are no edges in $T_B$, so he has no trouble swapping $T_B$ for $N(T_B)$ to get to the newer and smaller vertex cover.
+</p>
+
+<p>Mission accompolished!</p>
+
+<p>Now more confident, Tapesh wonders if he could have arrived at $X$ all on his own. Indeed, what would he have done without Pradosh&#8217;s help? And without Professor Maganlal giving him that partition? </p>
+
+<p>Come to think of it, the second question has an easy answer. Tapesh would just try all possible partitions of the solution that Pradosh had given him. He would only have to disregard the partitions that didn't work...  and sooner or later, he would hit the one that his Professor so graciously suggested. This would mean <a href="http://www.wolframalpha.com/input/?i=%282%5E24%29%2F10%5E9+seconds">examining $2^{24}$ subsets</a>, a matter of a split second for a personal computer. </p>
+
+<p>But - can he replicate Pradosh&#8217;s magic on his own? </p>
+
+<p><a href="http://neeldhara.com/ramblings/expositions/iterative-compression-2">Stay tuned.</a></p>
+</div>

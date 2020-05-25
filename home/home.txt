@@ -35,11 +35,11 @@ news:
 -
  item: "Accepted at [IJCAI 2020](https://ijcai20.org/):<br> _On the hardness of Multiwinner Voting Rules_ <br> (coauthored with Chinmay Sonar and Palash Dey)"
  itemtype: paper
- url: "https://arxiv.org/abs/2005.03176"
+ url: "https://arxiv.org/abs/2004.13933"
 -
  item: "Accepted at [IWOCA 2020](https://iwoca2020.labri.fr/):<br> _A Parameterized Perspective on Attacking and Defending Elections_ <br> (coauthored with Kishen Gowda and Vraj Patel)"
  itemtype: paper
- url: "https://arxiv.org/abs/2004.13933"
+ url: "https://arxiv.org/abs/2005.03176"
 ----
 Add this soon:
 

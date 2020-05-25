@@ -1,0 +1,56 @@
+title:
+How expensive can  homework help be? (Part 2)						
+----
+tags:
+exposition
+----
+text:
+<div class="columns sixteen" markdown="1">
+
+
+<p>This post is based on an expository explanation of iterative compression that I attempted at the Institute Seminar Week in 2010, at IMSc.</p>
+
+<p><a href="http://neeldhara.com/blog/expositions/iterative-compression-1/">Read Part 1</a></p>
+
+<hr />
+
+<p>Tapesh is up into the middle of the night waiting for the brainwave that will make him completely self-dependent, at least in the broad context of finding small vertex covers in large graphs. </p>
+
+<p>He is still impressed that he has just found a general scheme for taking a vertex cover of size 24 and bringing it down to 23. Wanting to make the most of the only trick he knew, he wondered if he could use it more than once.</p>
+
+<p>So he looked at the 1,000-vertex monstrosity and contemplated the possibility of working with a manageable chunk first. What if he selected an easy subgraph $H$for isolated consideration? Surely, if $G$ has a vertex cover of 23 vertices, $H$ has one too. So all he would need is to find a vertex cover on 24 vertices, and he already knew how to squish it to one of size 23. </p>
+
+<p>What was the easiest chunk that he could work with? One on which finding a vertex cover of size 24 wasn&#8217;t hard? </p>
+
+<p>But of course, a subgraph on 24 vertices would be really easy to deal with!</p>
+
+<p>The entire graph $H$ would serve as it&#8217;s own vertex cover, would be of size 24 &#8212; it couldn&#8217;t get easier than that.</p>
+
+<p>So Tapesh starts by selecting the first 24 vertices that he can find, and applies his squishing strategy to find a vertex cover on 23 vertices.</p>
+
+<p>What now?</p>
+
+<p>He gives the remaining 976 vertices a hesitant look. </p>
+
+<p>Maybe it was time to grow $H$ to include some more vertices? If Tapesh could get $H$ to eventually morph into being all of $G$&#8230; he would be done!</p>
+
+<p>But if he added a whole bunch of new vertices, he would need to do something about finding a vertex cover of size 24 in the bigger $H$ to make progress&#8230; but that sounded like work :(</p>
+
+<p>Maybe, maybe just let in <em>one</em> more vertex into the precious subgraph, $H$? Indeed, there is enough room in the vertex cover of size 23 for one more vertex. So $H$ would grow by a single vertex, and so would the vertex cover - and then Tapesh could squish it <em>again!</em></p>
+
+<p>And there is no stopping Tapesh from repeating this 975 times more, and each time, the reincarnated $H$ would be one larger than before, and every time he would beat down the vertex cover to one of size 23, till he got to the end.</p>
+
+<p>But, Tapesh wonders sleepily, wouldn't this take awfully long?</p>
+
+<p>The squishing was quick, and now it has to be done 977 times altogether&#8230; and even at the lesiurely pace of doing one iteration in one second, you would need less than half an hour before you finished. </p>
+
+<p>Not too shabby &#8212; certainly no waiting for unvierses to come and go!</p>
+
+<p>In general, the problem of finding a vertex cover of size $k$ in a graph on $n$ vertices vertices <a href="#" title="There are many algorithms that are speedier, too. You are invited to come up with one that is faster!" class="tinytips">can be done</a> in time: $$O((n-k) \cdot 2^k)$$ following the recipe in this story. </p>
+
+<p>If this algorithm aborts, unable to find a vertex cover of size $k$, it is because a subgraph did not have a vertex cover of size $k$. Of course, this also means that the entire graph does not have a vertex cover of size $k$ either, so the process makes sense. </p>
+
+<p>It is important to note that not every problem is designed to fit this bill, for instance, if the next homework assignment demands a vertex cover that is also connected, the iteration procedure, as it stands, might not be accurate when it reports a negative answer.</p>
+
+<p>The next assignment, therefore, potentially leads to a more demanding adventure. </p>
+</div>
