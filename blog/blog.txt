@@ -2,3 +2,6 @@ text:
 ----
 color: purple
 ----
+categories: expositions, notes, tutorials, shorts, illustrations, musings
+----
+fullcatnames: Expositions, Notes, Tutorials, Shorts, Illustrations, Musings

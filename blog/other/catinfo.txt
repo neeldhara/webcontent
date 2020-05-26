@@ -1,6 +1,0 @@
-title:
-Miscellania
-----
-id:
-other
-----

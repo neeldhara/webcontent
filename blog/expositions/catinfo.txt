@@ -3,5 +3,5 @@ Expositions
 ----
 
 id:
-exposition
+expositions
 ----

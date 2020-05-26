@@ -1,0 +1,40 @@
+title: Sprinkles of the Sky
+
+----
+
+layout: poem
+
+----
+
+tags: poem
+
+----
+
+text:
+
+A dubious draft of air
+comes, goes
+as if wondering
+if the air’s welcoming
+
+Soft rays tiptoe
+by the window
+as if shy
+to come inside
+
+Sprinkles of the sky
+lie in drops of dew
+as if captive,
+somewhat pensive
+
+And I snuggle deeper
+into a distant dream
+as if I could see
+a better place to be
+
+
+<div class="text-small mt-2 border-top" style="margin-top: 1em; padding-top: 1em;">
+
+I stole the title from a phrase in <em>Hairat</em>, <a href="http://www.youtube.com/watch?v=oz6LoxmLJTY">a song</a> that features in <a href="http://en.wikipedia.org/wiki/Anjaana_Anjaani">Anjaana Anjaani</a>. Incidentally - I am very addicted to the entire album!
+
+</div>

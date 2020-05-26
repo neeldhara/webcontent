@@ -1,0 +1,34 @@
+title: Bloom
+
+----
+
+layout: poem
+
+----
+
+tags: poem
+
+----
+
+text:
+
+Velvet-like violet
+erupts
+in a riot
+on miniscule
+white canvases
+harp-like;
+focused at
+a bunch of seeds.
+
+All trouble
+to no avail,
+one day the bee will come
+and take it all away.
+
+
+<div class="text-small mt-2 border-top" style="margin-top: 1em; padding-top: 1em;">
+
+Honorable Mention (tooltip: (tooltip: The Binnacle’s Annual International Ultra-Short Competition features the best works of narrative fiction and poetry of 150 words or fewer. Submissions are typically received from six continents and a couple dozen countries. From these hundreds of submissions fifty to sixty works are chosen for the annual edition, and among these a few receive cash prizes. text:in) the <a target="blank" href="https://www.amazon.in/Binnacle-Second-Annual-Ultra-Short-Competition-ebook/dp/B06WVBTYC9">The Binnacle Second Annual Ultra Short Competition</a>.
+
+</div>

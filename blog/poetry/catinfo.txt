@@ -1,7 +1,0 @@
-title:
-Poetry
-----
-
-id:
-poetry
-----
