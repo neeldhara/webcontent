@@ -441,6 +441,26 @@ People:
 
 -
 
+ name: Vraj Patel
+ year: 2019
+ type: project
+ detail: Independent Project (UG)
+ work: "A Parameterized Perspective on Attacking and Defending Elections"
+ status: alumni
+ picture: boy-blank.png
+
+-
+
+ name: Kishen Gowda
+ year: 2019
+ type: project
+ detail: Independent Project (UG)
+ work: "A Parameterized Perspective on Attacking and Defending Elections"
+ status: alumni
+ picture: boy-blank.png
+
+-
+
  name: Ritik Dutta
  year: 2020
  type: project
