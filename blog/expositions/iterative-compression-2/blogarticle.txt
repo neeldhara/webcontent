@@ -10,7 +10,7 @@ text:
 
 This post is based on an expository explanation of iterative compression that I attempted at the Institute Seminar Week in 2010, at IMSc.
 
-<a href="http://neeldhara.com/blog/expositions/iterative-compression-1/">Read Part 1</a>
+<a href="../expositions/iterative-compression-1/">Read Part 1</a>
 
 <hr />
 
@@ -44,7 +44,7 @@ But, Tapesh wonders sleepily, wouldn't this take awfully long?
 
 The squishing was quick, and now it has to be done 977 times altogether&#8230; and even at the lesiurely pace of doing one iteration in one second, you would need less than half an hour before you finished. 
 
-Not too shabby -- certainly no waiting for unvierses to come and go!
+Not too shabby -- certainly no waiting for universes to come and go!
 
 In general, the problem of finding a vertex cover of size $k$ in a graph on $n$ vertices vertices <a href="#" title="There are many algorithms that are speedier, too. You are invited to come up with one that is faster!" class="tinytips">can be done</a> in time: $$O((n-k) \cdot 2^k)$$ following the recipe in this story. 
 

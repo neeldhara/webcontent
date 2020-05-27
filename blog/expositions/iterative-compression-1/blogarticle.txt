@@ -37,7 +37,7 @@ Necessarily, all the neighbors of the bad part must belong to $X$!
 He checks, and sure enough, the number of vertices in $T_G$ and $N(T_B)$ is an exact, resounding 23. Also, very fortunately, there are no edges in $T_B$, so he has no trouble swapping $T_B$ for $N(T_B)$ to get to the newer and smaller vertex cover.
 
 
-Mission accompolished!
+Mission accomplished!
 
 Now more confident, Tapesh wonders if he could have arrived at $X$ all on his own. Indeed, what would he have done without Pradosh's help? And without Professor Maganlal giving him that partition? 
 
@@ -45,5 +45,5 @@ Come to think of it, the second question has an easy answer. Tapesh would just t
 
 But - can he replicate Pradosh's magic on his own? 
 
-<a href="http://neeldhara.com/ramblings/expositions/iterative-compression-2">Stay tuned.</a>
+<a href="../expositions/iterative-compression-2">Stay tuned.</a>
 </div>
