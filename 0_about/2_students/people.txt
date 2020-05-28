@@ -208,7 +208,12 @@ People:
  work: "Approximate Structure in Dichotomous Preferences"
  status: alumni
  latest: "Graduate Student <br> University of Pennsylvania"
- 
+ url: https://www.seas.upenn.edu/~apallath/
+ github: apallath
+ twitter: PallathAkash 
+ linkedin: in/akash-pallath/
+ facebook: akashpallath
+
 -
 
  name: Chinmay Sonar
@@ -297,7 +302,12 @@ People:
  work: "Hard Problems on Structured Approval Ballots"
  status: alumni
  latest: "Graduate Student <br> University of Pennsylvania"
- 
+ url: https://www.seas.upenn.edu/~apallath/
+ github: apallath
+ twitter: PallathAkash 
+ linkedin: in/akash-pallath/
+ facebook: akashpallath
+
 -
 
  name: Foram Lakhani
