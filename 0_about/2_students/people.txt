@@ -447,7 +447,7 @@ People:
  detail: Independent Project (UG)
  work: "A Parameterized Perspective on Attacking and Defending Elections"
  status: alumni
- picture: boy-blank.png
+ picture: vrajpatel.jpg
 
 -
 
@@ -457,7 +457,7 @@ People:
  detail: Independent Project (UG)
  work: "A Parameterized Perspective on Attacking and Defending Elections"
  status: alumni
- picture: boy-blank.png
+ picture: kishengowda.jpg
 
 -
 
