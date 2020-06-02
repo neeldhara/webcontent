@@ -1,0 +1,18 @@
+Title:
+On the Communication Complexity of Equality 
+----
+Tags:
+proof
+----
+text:
+
+
+This post is based on (YouTube:video text:this lecture video:orOJRhlqrvk target:blank) by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), a part of the (youtube:ryan text:playlist target:blank list:PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX video:prI35GmCon4) for the awesome [CS Theory Toolkit](https://www.diderot.one/course/28/) course. 
+
+The step-by-step version is [here](../equality).
+
+<p> &nbsp; </p>
+
+<video class="plyr" playsinline controls>
+    <source src="../../../content/blog/illustrations/equality/video/Equality.m4v" typee="video/mp4" />
+</video>

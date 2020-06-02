@@ -1,0 +1,213 @@
+Title:
+On the Communication Complexity of Equality 
+----
+Tags:
+proof
+----
+text:
+
+This post is based on (YouTube:video text:this lecture video:orOJRhlqrvk target:blank) by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), a part of the (youtube:ryan text:playlist target:blank list:PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX video:prI35GmCon4) for the awesome [CS Theory Toolkit](https://www.diderot.one/course/28/) course. 
+
+A video version is [here](equality/video).
+
+<div class="buttons-attached" data-flickity='{ "imagesLoaded": true, "fade": true, "wrapAround": false }'>
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.001.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.002.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.004.jpeg" alt="Image 1">
+  </div>
+  
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.006.jpeg" alt="Image 1">
+  </div>
+  
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.008.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.009.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.010.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.011.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.012.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.013.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.014.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.015.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.016.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.017.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.018.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.019.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.020.jpeg" alt="Image 1">
+  </div>
+  
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.022.jpeg" alt="Image 1">
+  </div>
+
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.024.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.025.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.026.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.028.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.029.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.030.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.031.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.032.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.033.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.035.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.036.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.037.jpeg" alt="Image 1">
+  </div>
+ 
+  
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.040.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.041.jpeg" alt="Image 1">
+  </div>
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.043.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.044.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.045.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.046.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.047.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.048.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.049.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.050.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.051.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.052.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.053.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.054.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+  <div class="carousel-cell">
+    <img class="noborder" src="../../content/blog/illustrations/equality/images/Equality.055.jpeg" alt="Image 1">
+  </div>
+ 
+ 
+</div>
+
+<p>&nbsp;</p>
