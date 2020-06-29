@@ -1,0 +1,23 @@
+title: On the Fence
+
+----
+
+layout: poem
+
+----
+
+tags: poem
+
+----
+
+text:
+
+At least you are dead.
+To which the ghost said,
+The grass is not greener here -
+But it did become paler there...
+
+At least you have a chance,
+To wait for the rains’ dance,
+To live and fight,
+To make things right.
